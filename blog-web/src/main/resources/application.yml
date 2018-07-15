@@ -93,7 +93,7 @@ mybatis:
 # mapper
 mapper:
     mappers:
-        - BaseMapper
+        - com.lihui.blog.plugin.BaseMapper
     not-empty: false
     identity: MYSQL
 # pagehelper

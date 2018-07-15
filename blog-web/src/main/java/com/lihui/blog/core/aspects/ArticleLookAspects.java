@@ -56,7 +56,7 @@ public class ArticleLookAspects {
     @Autowired
     private BizArticleLookService articleLookService;
 
-    @Pointcut("execution(* RenderController.article(..))")
+    @Pointcut("execution(* com.lihui.blog.controller.RenderController.article(..))")
     public void pointcut() {
         // 切面切入点
     }

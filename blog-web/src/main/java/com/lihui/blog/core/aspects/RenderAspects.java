@@ -30,7 +30,7 @@ public class RenderAspects {
     @Autowired
     private SysConfigService configService;
 
-    @Pointcut("execution(* RenderController.*(..))")
+    @Pointcut("execution(* com.lihui.blog.controller.RenderController.*(..))")
     public void pointcut() {
         // 切面切入点
     }
