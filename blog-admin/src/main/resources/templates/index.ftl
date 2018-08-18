@@ -34,7 +34,7 @@
                                     <li>相关Wiki：<a href="https://gitee.com/yadong.zhang/DBlog/wikis" target="_blank">https://gitee.com/yadong.zhang/DBlog/wikis</a></li>
                                     <li>提issue：<a href="https://gitee.com/yadong.zhang/DBlog/issues" target="_blank">https://gitee.com/yadong.zhang/DBlog/issues</a></li>
                                     <li>留言：<a href="https://www.zhyd.me/guestbook" target="_blank">https://www.zhyd.me/guestbook</a></li>
-                                    <li>加QQ群：<a href="http://shang.qq.com/wpa/qunwpa?idkey=9f986e9b33b1de953e1ef9a96cdeec990affd0ac7855e00ff103514de2027b60" target="_blank">190886500</a></li>
+                                    <li>加QQ群：<a href="http://shang.qq.com/wpa/qunwpa?idkey=9f986e9b33b1de953e1ef9a96cdeec990affd0ac7855e00ff103514de2027b60" target="_blank">828115650</a></li>
                                 </ul>
                             </div>
                         </div>
