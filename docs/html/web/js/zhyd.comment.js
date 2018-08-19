@@ -74,7 +74,7 @@ $.extend({
                     + '<input type="hidden" name="pid" id="comment-pid" value="0" size="22" tabindex="1">'
                     + '<textarea id="comment_content" name="content" style="display: none"></textarea>'
                     + '<div id="editor" style="width: 100%;height: 150px;"></div>'
-                    + '<div style="position: absolute;right: 10px;bottom: 65px;font-size: 14px;font-weight: 700;color: #ececec;">张亚东博客<br>https://www.iotjike.com<br>讲文明、要和谐</div>'
+                    + '<div style="position: absolute;right: 10px;bottom: 65px;font-size: 14px;font-weight: 700;color: #ececec;">lihui博客<br>https://www.iotjike.com<br>讲文明、要和谐</div>'
                     + '<a id="comment-form-btn" type="button" data-loading-text="正在提交评论..." class="btn btn-default btn-block">提交评论</a>'
                     + '</form></div></div>';
             $box.html(commentBox);
