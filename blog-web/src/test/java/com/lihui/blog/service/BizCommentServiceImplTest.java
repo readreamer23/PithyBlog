@@ -9,7 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
+ * @author lihui ()
  * @version 1.0
  * @date 2018/4/28 11:14
  * @since 1.0

@@ -1,6 +1,6 @@
 /**
  * MIT License
- * Copyright (c) 2018 yadong.zhang
+ * Copyright (c) 2018 lihui
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
@@ -22,7 +22,7 @@ package com.lihui.blog.util;
 import com.lihui.blog.business.consts.CommonConst;
 
 /**
- * @author: yadong.zhang
+ * @author: lihui
  * @date: 2017/12/15 17:03
  */
 public class PasswordUtil {

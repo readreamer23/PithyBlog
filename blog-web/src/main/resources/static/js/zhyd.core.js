@@ -1,7 +1,7 @@
 /**
  * MIT License
  *
- * Copyright (c) 2018 yadong.zhang
+ * Copyright (c) 2018 lihui
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -23,8 +23,8 @@
  *
  * 项目核心Js库，主要包含核心工具类和 相关插件
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
- * @website https://www.zhyd.me
+ * @author lihui ()
+ * @website https://www.iotjike.com
  * @version 1.0
  * @date 2017-09-02
  * @since 1.0

@@ -1,7 +1,7 @@
 /**
  * MIT License
  *
- * Copyright (c) 2018 yadong.zhang
+ * Copyright (c) 2018 lihui
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -31,13 +31,13 @@ import javax.sql.DataSource;
 
 /**
  * 添加数据源的抽象配置，详细实现根据业务定制。
- * Created by yadong.zhang on cn.com.innodev.health.framework.config
+ * Created by lihui on cn.com.innodev.health.framework.config
  * 必备的注解参数<br>
  * <code>@Configuration</code><br>
  * <code>@MapperScan(basePackages = "xxMapper.java所在的包路径", sqlSessionTemplateRef  = "同下方transactionManagerBeanName")</code><br>
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
- * @website https://www.zhyd.me
+ * @author lihui ()
+ * @website https://www.iotjike.com
  * @version 1.0
  * @date 2018/4/16 16:26
  * @since 1.0

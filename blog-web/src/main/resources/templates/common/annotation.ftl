@@ -42,9 +42,9 @@
  111111111111111111111100111111111111111111100000011111111111111111111111110001111111111111111
 
  -   ----------------------------------   神龙保佑，永无BUG   ------------------------------------   -
-    Star me on Gitee - https://gitee.com/yadong.zhang/DBlog
-    yadong.zhang (yadong.zhang0415#gmail.com)
-    https://www.zhyd.me
+    Star me on Gitee - https://gitee.com/lihui/DBlog
+    lihui (lihui0415#gmail.com)
+    https://www.iotjike.com
     如有问题请加QQ群(828115650)，备注：dblog
  -   ----------------------------------   神龙保佑，永无BUG   ------------------------------------   -
 -->

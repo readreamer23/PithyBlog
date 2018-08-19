@@ -1,6 +1,6 @@
 /**
  * MIT License
- * Copyright (c) 2018 yadong.zhang
+ * Copyright (c) 2018 lihui
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
@@ -28,9 +28,9 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * @author yadong.zhang email:yadong.zhang0415(a)gmail.com
+ * @author lihui email:
  * @version 1.0
- * @website https://www.zhyd.me
+ * @website https://www.iotjike.com
  * @date 2018/1/19 10:32
  * @since 1.0
  */

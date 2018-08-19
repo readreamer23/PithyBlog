@@ -26,14 +26,14 @@
                             <div class="x_content about" style="max-height: 200px;overflow-y: auto">
                                 <h2>项目相关</h2>
                                 <ul>
-                                    <li>开源项目地址：<a href="https://gitee.com/yadong.zhang/DBlog" target="_blank">https://gitee.com/yadong.zhang/DBlog</a></li>
-                                    <li>博主网站首页：<a href="https://www.zhyd.me" target="_blank">https://www.zhyd.me</a></li>
+                                    <li>开源项目地址：<a href="https://gitee.com/lihui/DBlog" target="_blank">https://gitee.com/lihui/DBlog</a></li>
+                                    <li>博主网站首页：<a href="https://www.iotjike.com" target="_blank">https://www.iotjike.com</a></li>
                                 </ul>
                                 <h2>获取帮助</h2>
                                 <ul>
-                                    <li>相关Wiki：<a href="https://gitee.com/yadong.zhang/DBlog/wikis" target="_blank">https://gitee.com/yadong.zhang/DBlog/wikis</a></li>
-                                    <li>提issue：<a href="https://gitee.com/yadong.zhang/DBlog/issues" target="_blank">https://gitee.com/yadong.zhang/DBlog/issues</a></li>
-                                    <li>留言：<a href="https://www.zhyd.me/guestbook" target="_blank">https://www.zhyd.me/guestbook</a></li>
+                                    <li>相关Wiki：<a href="https://gitee.com/lihui/DBlog/wikis" target="_blank">https://gitee.com/lihui/DBlog/wikis</a></li>
+                                    <li>提issue：<a href="https://gitee.com/lihui/DBlog/issues" target="_blank">https://gitee.com/lihui/DBlog/issues</a></li>
+                                    <li>留言：<a href="https://www.iotjike.com/guestbook" target="_blank">https://www.iotjike.com/guestbook</a></li>
                                     <li>加QQ群：<a href="http://shang.qq.com/wpa/qunwpa?idkey=9f986e9b33b1de953e1ef9a96cdeec990affd0ac7855e00ff103514de2027b60" target="_blank">828115650</a></li>
                                 </ul>
                             </div>

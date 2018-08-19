@@ -1,6 +1,6 @@
 /**
  * MIT License
- * Copyright (c) 2018 yadong.zhang
+ * Copyright (c) 2018 lihui
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
@@ -25,9 +25,9 @@ import org.springframework.scheduling.annotation.EnableAsync;
 /**
  * 异步线程配置
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
+ * @author lihui ()
  * @version 1.0
- * @website https://www.zhyd.me
+ * @website https://www.iotjike.com
  * @date 2018/4/28 11:04
  * @since 1.0
  */

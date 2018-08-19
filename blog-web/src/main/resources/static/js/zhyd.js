@@ -1,7 +1,7 @@
 /**
  * MIT License
  *
- * Copyright (c) 2018 yadong.zhang
+ * Copyright (c) 2018 lihui
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -21,8 +21,8 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
- * @website https://www.zhyd.me
+ * @author lihui ()
+ * @website https://www.iotjike.com
  * @version 1.0
  * @date 2017-04-01
  * @since 1.0
@@ -174,7 +174,7 @@ $(function () {
     initScrollMenu();
 
     console.group("关于本站");
-    console.log("写博客、记日志、闲聊扯淡鼓捣技术\n志同道合者欢迎进QQ交流群（828115650）");
+    console.log("写技术博客、记总结日志、与同行技术交流\n志同道合者欢迎进QQ交流群（828115650）");
     console.groupEnd();
     console.log("%c生活真他妈好玩，因为生活老他妈玩我！", "color:green;font-size:20px;font-weight:blod");
     console.groupEnd();

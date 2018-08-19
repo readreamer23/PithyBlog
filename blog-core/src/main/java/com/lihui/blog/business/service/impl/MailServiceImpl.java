@@ -1,6 +1,6 @@
 /**
  * MIT License
- * Copyright (c) 2018 yadong.zhang
+ * Copyright (c) 2018 lihui
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
@@ -48,9 +48,9 @@ import java.util.Map;
 /**
  * 邮件发送
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
+ * @author lihui ()
  * @version 1.0
- * @website https://www.zhyd.me
+ * @website https://www.iotjike.com
  * @date 2018/4/16 16:26
  * @since 1.0
  */
@@ -153,7 +153,7 @@ public class MailServiceImpl implements MailService {
         map.put("link", link);
         String mailContext = FreeMarkerUtil.template2String(temXml, map, true);
         String adminEmail = config.getAuthorEmail();
-        adminEmail = StringUtils.isEmpty(adminEmail) ? "yadong.zhang0415@gmail.com" : (adminEmail.contains("#") ? adminEmail.replace("#", "@") : adminEmail);
+        adminEmail = StringUtils.isEmpty(adminEmail) ? "lihui0415@gmail.com" : (adminEmail.contains("#") ? adminEmail.replace("#", "@") : adminEmail);
         MailDetail mailDetail = new MailDetail("有新的友链消息", adminEmail, config.getAuthorName(), mailContext);
         send(mailDetail);
     }
@@ -175,7 +175,7 @@ public class MailServiceImpl implements MailService {
         String mailContext = FreeMarkerUtil.template2String(temXml, map, true);
         String subject = "有新的评论消息";
         String adminEmail = config.getAuthorEmail();
-        adminEmail = StringUtils.isEmpty(adminEmail) ? "yadong.zhang0415@gmail.com" : (adminEmail.contains("#") ? adminEmail.replace("#", "@") : adminEmail);
+        adminEmail = StringUtils.isEmpty(adminEmail) ? "lihui0415@gmail.com" : (adminEmail.contains("#") ? adminEmail.replace("#", "@") : adminEmail);
         MailDetail mailDetail = new MailDetail(subject, adminEmail, config.getAuthorName(), mailContext);
         send(mailDetail);
     }

@@ -1,5 +1,5 @@
 /**
- * Copyright [2016-2017] [yadong.zhang]
+ * Copyright [2016-2017] [lihui]
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at
@@ -18,9 +18,9 @@ import java.util.concurrent.TimeUnit;
 /**
  * Redis缓存自定义注解
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
+ * @author lihui ()
  * @version 1.0
- * @website https://www.zhyd.me
+ * @website https://www.iotjike.com
  * @date 2018/4/16 16:26
  * @since 1.0
  */

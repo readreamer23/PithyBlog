@@ -199,7 +199,7 @@
                             html = html ? html : '-';
                             html += '/';
                             if(row.qq){
-                                html += '<a href="javascript:void(0);" target="_blank" onclick="window.open(\'tencent://message/?uin=' + row.qq + '&amp;Site=www.zhyd.me&amp;Menu=yes\')" rel="external nofollow"><i class="fa fa fa-qq fa-fw"></i></a>';
+                                html += '<a href="javascript:void(0);" target="_blank" onclick="window.open(\'tencent://message/?uin=' + row.qq + '&amp;Site=www.iotjike.com&amp;Menu=yes\')" rel="external nofollow"><i class="fa fa fa-qq fa-fw"></i></a>';
                             }else{
                                 html += '-';
                             }

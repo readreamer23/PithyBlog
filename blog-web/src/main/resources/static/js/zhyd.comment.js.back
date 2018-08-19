@@ -1,7 +1,7 @@
 /**
  * MIT License
  *
- * Copyright (c) 2018 yadong.zhang
+ * Copyright (c) 2018 lihui
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -25,7 +25,7 @@
  * 评论插件
  *
  * @date 2018-01-05 10:57
- * @author zhyd(yadong.zhang0415#gmail.com)
+ * @author zhyd(lihui0415#gmail.com)
  * @link https://github.com/zhangyd-c
  *
  *
@@ -116,7 +116,7 @@ $.extend({
                     + '<input type="hidden" name="pid" id="comment-pid" value="0" size="22" tabindex="1">'
                     + '<textarea id="comment_content" name="content" style="display: none"></textarea>'
                     + '<div id="editor" style="width: 100%;height: 150px;"></div>'
-                    + '<div style="position: absolute;right: 10px;bottom: 65px;font-size: 14px;font-weight: 700;color: #ececec;">张亚东博客<br>https://www.zhyd.me<br>讲文明、要和谐</div>'
+                    + '<div style="position: absolute;right: 10px;bottom: 65px;font-size: 14px;font-weight: 700;color: #ececec;">张亚东博客<br>https://www.iotjike.com<br>讲文明、要和谐</div>'
                     + '<a id="comment-form-btn" type="button" data-loading-text="正在提交评论..." class="btn btn-default btn-block">提交评论</a>'
                     + '</form></div></div>';
             $box.html(commentBox);
