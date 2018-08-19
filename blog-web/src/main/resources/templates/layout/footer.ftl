@@ -135,7 +135,7 @@
                 </div>
                 <div class="col-xs-12 col-sm-5 col-md-5">
                     <a href="${config.staticWebSite}/img/qq_group.png" class="showImage" title="QQ群(828115650)二维码" rel="external nofollow">
-                        <img data-original="./img/qq_group.png" alt="QQ群(828115650)二维码" class="img-responsive img-rounded auto-shake lazy-img" style="width: 100px;">
+                        <img data-original="${config.staticWebSite}/img/qq_group.png" alt="QQ群(828115650)二维码" class="img-responsive img-rounded auto-shake lazy-img" style="width: 100px;">
                     </a>
                 </div>
             </div>
