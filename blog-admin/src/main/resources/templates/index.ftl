@@ -11,7 +11,7 @@
         <div class="x_panel">
             <div class="x_title">
                 <h2>欢迎光临
-                    <small>DBlog${config.siteName}后台</small>
+                    <small>PithyBlog${config.siteName}后台</small>
                 </h2>
                 <div class="clearfix"></div>
             </div>
@@ -20,7 +20,7 @@
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="x_panel">
                             <div class="x_title">
-                                <h2>关于开源项目【DBlog】</h2>
+                                <h2>关于开源项目【PithyBlog】</h2>
                                 <div class="clearfix"></div>
                             </div>
                             <div class="x_content about" style="max-height: 200px;overflow-y: auto">
