@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.lihui</groupId>
-	<artifactId>blog</artifactId>
+	<artifactId>PithyBlog</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<modules>
@@ -13,8 +13,8 @@
 		<module>blog-admin</module>
 	</modules>
 
-	<name>blog</name>
-	<description>DBlog for Spring Boot</description>
+	<name>PithyBlog</name>
+	<description>PithyBlog for Spring Boot</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
