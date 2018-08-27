@@ -2296,6 +2296,14 @@ nav a:first-child .meta-nav {
     /*border: 2px solid #f8f8f8;*/
 }
 
+.about-img1 img {
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+    /*margin: 1px 0 0 0;*/
+    padding: 2px;
+}
+
 .about-name {
     font-size: 16px;
     font-weight: 700;

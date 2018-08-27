@@ -90,7 +90,7 @@ if(articleId){
                     $('#comment').iCheck(info.comment ? 'check' : 'uncheck');
                 }
                 if(info['coverImage']){
-                    $(".coverImage").attr('src', appConfig.qiniuPath + info['coverImage']);
+                    $(".coverImage").attr('src', appConfig.qiniuPath+'/' + info['coverImage']);
                 }
                 if(info['contentMd']){
                     $("#contentMd").val(info['contentMd']);
@@ -156,7 +156,7 @@ $("#file-upload-btn").click(function () {
                     if($this.hasClass("active")){
                         var imgUrl = $this.attr("data-imgUrl");
                         $("#cover-img-input").val(imgUrl);
-                        $(".preview img.coverImage").attr("src", appConfig.qiniuPath + imgUrl);
+                        $(".preview img.coverImage").attr("src", appConfig.qiniuPath+'/' + imgUrl);
                     }
                 });
                 $("img.lazy-img").lazyload({
