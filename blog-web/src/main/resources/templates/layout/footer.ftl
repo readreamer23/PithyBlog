@@ -108,12 +108,13 @@
             <h4>其他链接</h4>
             <ul class="list-unstyled list-inline">
                 <li><a href="http://shang.qq.com/wpa/qunwpa?idkey=9f986e9b33b1de953e1ef9a96cdeec990affd0ac7855e00ff103514de2027b60" target="_blank" title="加入我的QQ交流群：828115650" data-toggle="tooltip" data-placement="bottom" rel="external nofollow"><i class="fa fa-qq"></i>QQ交流群</a></li>
+                <li><a href="${config.siteUrl}/recommended" title="站长推荐" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-thumbs-o-up fa-fw"></i>站长推荐</a></li>
+                <li><a href="${config.siteUrl}/disclaimer" title="免责声明" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-file-o fa-fw"></i>免责声明</a></li>
+
+                <!--
                 <li><a href="https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=wylo59db" target="_blank" title="史上最全的阿里云优惠券" data-toggle="tooltip" data-placement="bottom" rel="external nofollow"><i class="fa fa-fire fa-fw"></i>阿里云券</a></li>
                 <li><a href="https://mi.aliyun.com/shop/19462" target="_blank" title="闲置域名出售" data-toggle="tooltip" data-placement="bottom" rel="external nofollow"><i class="fa fa-globe fa-fw fa-spin red"></i>域名出售</a></li>
                 <li><a href="${config.siteUrl}/sitemap.html" target="_blank" title="网站地图" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-map-o fa-fw"></i>网站地图</a></li>
-                <li><a href="${config.siteUrl}/recommended" title="站长推荐" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-thumbs-o-up fa-fw"></i>站长推荐</a></li>
-                <li><a href="${config.siteUrl}/disclaimer" title="免责声明" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-file-o fa-fw"></i>免责声明</a></li>
-                <!--
                 <li><a href="${config.siteUrl}/updateLog" title="更新记录" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-file-o fa-fw"></i>更新记录</a></li>
                 <li><a href="${config.siteUrl}/archives" title="归档目录" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-folder-o fa-fw"></i>归档目录</a></li>
                 <li><a href="${config.siteUrl}/disclaimer" title="免责声明" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-file-o fa-fw"></i>免责声明</a></li>

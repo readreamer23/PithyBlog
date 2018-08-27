@@ -1,7 +1,7 @@
 <#include "include/macros.ftl">
 <@header title="关于 | ${config.siteName}"
     keywords="${config.siteName},关于博客"
-    description="一个程序员的个人博客,关于我的个人原创博客 - ${config.siteName}"
+    description="一个程序员的个人博客 - ${config.siteName}"
     canonical="/about">
 </@header>
 
