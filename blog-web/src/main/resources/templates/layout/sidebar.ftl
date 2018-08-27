@@ -14,7 +14,7 @@
                 <div id="feed_widget">
                     <div class="feed-about">
                         <div class="about-main">
-                            <div class="about-img1"><a href="${config.staticWebSite}/img/wx_300px.png" class="showImage" title="微信公众号"><img src="${config.staticWebSite}/img/wx_300px.png" alt="微信公众号"></a></div>
+                            <div class="about-img"><a href="${config.staticWebSite}/img/person_qq.jpg" class="showImage" title="我的qq号"><img src="${config.staticWebSite}/img/person_qq.jpg" alt="微信公众号"></a></div>
                             <div class="about-name">${config.siteName}</div>
                             <div class="about-the">${config.siteDesc?if_exists}</div>
                         </div>

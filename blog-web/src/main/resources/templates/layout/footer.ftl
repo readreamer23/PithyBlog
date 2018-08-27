@@ -107,7 +107,7 @@
         <div class="col-xs-12 col-sm-4 col-md-4 text-left fade-in">
             <h4>其他链接</h4>
             <ul class="list-unstyled list-inline">
-                <li><a href="http://shang.qq.com/wpa/qunwpa?idkey=9f986e9b33b1de953e1ef9a96cdeec990affd0ac7855e00ff103514de2027b60" target="_blank" title="加入我的QQ交流群：828115650" data-toggle="tooltip" data-placement="bottom" rel="external nofollow"><i class="fa fa-qq"></i>QQ交流群</a></li>
+                <li><a href="http://shang.qq.com/wpa/qunwpa?idkey=ed29df964fc1fe1a4ac0fa21880cf04317f89b7a1ade346fa2dba4a9c9694d2a" target="_blank" title="加入我的QQ交流群：828115650" data-toggle="tooltip" data-placement="bottom" rel="external nofollow"><i class="fa fa-qq"></i>QQ交流群</a></li>
                 <li><a href="${config.siteUrl}/recommended" title="站长推荐" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-thumbs-o-up fa-fw"></i>站长推荐</a></li>
                 <li><a href="${config.siteUrl}/disclaimer" title="免责声明" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-file-o fa-fw"></i>免责声明</a></li>
 
