@@ -230,7 +230,7 @@ $(function () {
     }
 
     $.websocket.open({
-        host: "ws://localhost:8443/websocket",
+        host: "ws://localhost:80/websocket",
         reconnect: true,
         callback: function (json) {
             var onlineCount = json;

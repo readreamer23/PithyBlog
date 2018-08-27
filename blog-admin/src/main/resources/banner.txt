@@ -1,8 +1,8 @@
 ${AnsiColor.BLUE}
 ======================================================================================================================================================
 
-                                                欢迎使用 DBlog博客系统 - Powered By https://www.iotjike.com
-                                         唯一官方开源地址(Github已不维护)：https://gitee.com/lihui/DBlog
+                                                欢迎使用 PithyBlog博客系统 - Powered By https://www.iotjike.com
+                                         开源地址：https://www.github.com/readreamer23/PithyBlog
                                                                 唯一官方QQ群：828115650
 
                                                         当前SpringBoot版本 :: ${spring-boot.version}
