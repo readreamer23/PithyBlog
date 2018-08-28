@@ -112,7 +112,7 @@ public class SysConfigServiceImpl implements SysConfigService {
             if (!StringUtils.isEmpty(recordeTime)) {
                 map.put("recordeTime", DateUtil.date2Str(recordeTime, "yyyy年MM月dd日HH点"));
             }
-            Date buildSiteDate = DateUtil.str2Date("2016-10-27 00:00:00", DateConst.YYYY_MM_DD_HH_MM_SS_EN);
+            Date buildSiteDate = DateUtil.str2Date("2018-08-01 00:00:00", DateConst.YYYY_MM_DD_HH_MM_SS_EN);
             // 获取建站天数
             map.put("buildSiteDate", DateUtil.getGapDay(buildSiteDate, new Date()));
         }

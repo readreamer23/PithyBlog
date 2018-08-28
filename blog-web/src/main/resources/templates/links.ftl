@@ -35,6 +35,7 @@
                 </div>
             </div>
         </div>
+        <!--
         <div class="col-sm-12 zhyd-container">
             <div class="zhyd-box zhyd-os">
                 <div class="category">
@@ -65,6 +66,9 @@
                 </div>
             </div>
         </div>
+       -->
+
+        <!--
         <#if link.indexList>
         <div class="col-sm-12 zhyd-container">
             <div class="zhyd-box zhyd-os">
@@ -87,6 +91,8 @@
             </div>
         </div>
         </#if>
+      -->
+
         <#if link.insideList>
         <div class="col-sm-12 zhyd-container">
             <div class="zhyd-box zhyd-os">
