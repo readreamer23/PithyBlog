@@ -154,4 +154,8 @@
     </ul>
 </section>
 
+
+    <script type="text/javascript"
+            src="http://3gimg.qq.com/mig_op/beacon/js/beacon_release_jrlt.js?appkey=JS184W9Z2S1Y2D&vc=1.0.1">
+    </script>
 <@footer></@footer>

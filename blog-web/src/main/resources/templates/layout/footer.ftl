@@ -172,3 +172,13 @@
 <script type="text/javascript" src="${config.staticWebSite}/js/zhyd.core.js"></script>
 <script type="text/javascript" src="${config.staticWebSite}/js/zhyd.js"></script>
 <script type="text/javascript" src="${config.staticWebSite}/js/zhyd.comment.js"></script>
+
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?b41fc05417710048a3a102151a0cfa2a";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
