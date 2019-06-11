@@ -35,7 +35,8 @@ import com.lihui.blog.business.consts.FileConst;
 public enum QiniuUploadType {
     QRCODE("zhyd/qrcode/", FileConst.DEFAULT_IMG_WIDTH, FileConst.DEFAULT_IMG_HEIGHT, FileConst.DEFAULT_IMG_SIZE),
     SIMPLE("zhyd/article/", FileConst.DEFAULT_IMG_WIDTH, FileConst.DEFAULT_IMG_HEIGHT, FileConst.DEFAULT_IMG_SIZE),
-    COVER_IMAGE("zhyd/cover/", FileConst.DEFAULT_IMG_WIDTH, FileConst.DEFAULT_IMG_HEIGHT, FileConst.DEFAULT_IMG_SIZE);
+    COVER_IMAGE("zhyd/cover/", FileConst.DEFAULT_IMG_WIDTH, FileConst.DEFAULT_IMG_HEIGHT, FileConst.DEFAULT_IMG_SIZE),
+    WEIXIN_IMAGE("weixin/201906/", FileConst.DEFAULT_IMG_WIDTH, FileConst.DEFAULT_IMG_HEIGHT, FileConst.DEFAULT_IMG_SIZE);
 
     private String path;
     /**

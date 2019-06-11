@@ -36,6 +36,7 @@ import com.qiniu.util.StringMap;
 import com.lihui.blog.util.FileUtil;
 import lombok.extern.slf4j.Slf4j;
 
+import javax.swing.plaf.basic.BasicInternalFrameTitlePane;
 import java.io.File;
 import java.io.IOException;
 import java.util.Date;
@@ -79,11 +80,20 @@ public class QiniuApi {
         // 不用时间戳命名文件，改为具体的直观的日期命名文件
         String fileName = DateUtil.date2Str(new Date(), DateConst.MILLISECOND);
         this.key = path + (fileName + suffix);
+        System.out.println("----key="+this.key);
+        return this;
+    }
+
+    public QiniuApi withFileNameByKey(String key, QiniuUploadType type) {
+        this.key = key;
+        System.out.println("----key="+this.key);
         return this;
     }
 
     public String getUpToken() {
-        return this.auth.uploadToken(config.getQiniuBucketName(), this.key, 3600L, new StringMap().put("insertOnly", Integer.valueOf(1)));
+        String upToken=this.auth.uploadToken(config.getQiniuBucketName(), this.key, 3600L, new StringMap().put("insertOnly", Integer.valueOf(1)));
+        System.out.println("--------uptoken="+upToken);
+        return upToken;
     }
 
     public String upload(File fileByte) throws IOException {

@@ -16,7 +16,7 @@ public class BlogAdminApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		File file = new File("C:\\x\\x.png");
+		File file = new File("C:\\Users\\lihui\\Desktop\\study\\a_test20190602.png");
 		try {
 			String filePath = QiniuApi.getInstance()
                     .withFileName(file.getName(), QiniuUploadType.SIMPLE)
